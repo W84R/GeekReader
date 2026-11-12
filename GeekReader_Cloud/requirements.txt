@@ -1,0 +1,6 @@
+streamlit
+pymupdf
+python-pptx
+requests
+streamlit-drawable-canvas
+Pillow
